@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/GPT-3-website/static/css/main.a7ff9808.chunk.css",
+    "main.js": "/GPT-3-website/static/js/main.6e399362.chunk.js",
+    "main.js.map": "/GPT-3-website/static/js/main.6e399362.chunk.js.map",
+    "runtime-main.js": "/GPT-3-website/static/js/runtime-main.41b3ca52.js",
+    "runtime-main.js.map": "/GPT-3-website/static/js/runtime-main.41b3ca52.js.map",
+    "static/js/2.2e19e702.chunk.js": "/GPT-3-website/static/js/2.2e19e702.chunk.js",
+    "static/js/2.2e19e702.chunk.js.map": "/GPT-3-website/static/js/2.2e19e702.chunk.js.map",
+    "index.html": "/GPT-3-website/index.html",
+    "static/css/main.a7ff9808.chunk.css.map": "/GPT-3-website/static/css/main.a7ff9808.chunk.css.map",
+    "static/js/2.2e19e702.chunk.js.LICENSE.txt": "/GPT-3-website/static/js/2.2e19e702.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/GPT-3-website/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/GPT-3-website/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/GPT-3-website/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/GPT-3-website/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/GPT-3-website/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/GPT-3-website/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/GPT-3-website/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/GPT-3-website/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/GPT-3-website/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41b3ca52.js",
+    "static/js/2.2e19e702.chunk.js",
+    "static/css/main.a7ff9808.chunk.css",
+    "static/js/main.6e399362.chunk.js"
+  ]
+}
